@@ -1,0 +1,9 @@
+{
+    "name": "kindle/library",
+    "description": "Personal Kindle book management system",
+    "require": {
+        "php": ">=8.1",
+        "kiwilan/php-ebook": "*",
+        "wallabag/php-mobi": "*"
+    }
+}
